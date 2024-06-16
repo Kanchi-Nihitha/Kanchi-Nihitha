@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Kanchi-Nihitha/Kanchi-Nihitha/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Kanchi Nihitha</h1>
 <h3 align="center">A Full-Stack Enthusiast from India</h3>
 <img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
